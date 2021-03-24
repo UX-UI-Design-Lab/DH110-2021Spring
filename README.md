@@ -26,9 +26,9 @@ Week    |       Topics      |   Activity+References      |   Assignments
 2       | [Usability testing](https://docs.google.com/presentation/d/1rzDBZPBcBIE8DxgI2FoMAPYTHSSJm7mfXalz5myL--g/edit?usp=sharing) + [Analysis](https://drive.google.com/open?id=1FMLgyzdr_VtYcuiiIAd6GQwp14QJq2hqoeGZMyXPQOE) | [LectureNote02](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote02:-Usability-testing) [LectureNote03](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote03:-UT-analysis) | [A02: Pilot test](https://drive.google.com/open?id=1eRsb4nMkKsG5oFfpSeJSskZLRldLUzOKnT1sWeyzrg4)
 3       | [User Study](https://docs.google.com/presentation/d/1FYQf5P2qbtFi1OAA_ruUAFQdAxqdSTWXJOTQWKnQxE4/edit?usp=sharing) | [LectureNote04](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote04:-UX-research-methods) | [A03: Contextual Inquiry](https://drive.google.com/open?id=1aI4VAzWyX_lv9ct7wbr5dYYNEFFQiGBs5OA9u3lM9SE) 
 4       | [UX Storytelling + Interaction Design](https://docs.google.com/presentation/d/14AK9jNvjPL8MqVEabd0AxZu92K8lrAuFOn8yCEtnlI0/edit?usp=sharing) | [LectureNote05](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote05:-UX-Storytelling) | [A04:Persona-Scenario](https://docs.google.com/document/d/1E6C7vnNjxS85XeHNsrg0c1LOKXAuDgF53jQJV6cceWc/edit?usp=sharing)
-5       | [Prototyping-1](https://docs.google.com/presentation/d/1qOa9PBfOtO2GKHRncX8xuRG3eE2WS7X18muXufhD8aU/edit?usp=sharing)  | [LectureNote06](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote06:-Interface-Design) | [A05:Low Fidelity Prototype+](https://docs.google.com/document/d/1yywiX303FbT4SA3UDE9Yg7Q1ehYvaMXJOYLF4cqscMs/edit?usp=sharing)
+5       | [Prototyping-1](https://docs.google.com/presentation/d/1qOa9PBfOtO2GKHRncX8xuRG3eE2WS7X18muXufhD8aU/edit?usp=sharing)  | [LectureNote06](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote06:-Interface-Design) | [A05:Low Fidelity Prototype](https://docs.google.com/document/d/1yywiX303FbT4SA3UDE9Yg7Q1ehYvaMXJOYLF4cqscMs/edit?usp=sharing)
 6       | [Interface Design](https://docs.google.com/presentation/d/1qOa9PBfOtO2GKHRncX8xuRG3eE2WS7X18muXufhD8aU/edit?usp=sharing)  | [LectureNote06](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote06:-Interface-Design) | [A06:Interface Design System](#)
-7       | [Prototyping-2](https://docs.google.com/presentation/d/1NjSvzEgmwHWBggDxX9JiHq4bSkJdOhvG3_cRTDiFGhU/edit?usp=sharing) | [LectureNote07](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote07:-High-Fidelity-Prototype) | [A07: High Fidelity Prototype(2 blue-highlighted)+](https://docs.google.com/document/d/1LltO1JjHY3sNvBx4Td5mKKoV5-ZhzHtby1V2-4lPnSo/edit?usp=sharing)
+7       | [Prototyping-2](https://docs.google.com/presentation/d/1NjSvzEgmwHWBggDxX9JiHq4bSkJdOhvG3_cRTDiFGhU/edit?usp=sharing) | [LectureNote07](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote07:-High-Fidelity-Prototype) | [A07: High Fidelity Prototype](https://docs.google.com/document/d/1LltO1JjHY3sNvBx4Td5mKKoV5-ZhzHtby1V2-4lPnSo/edit?usp=sharing)
 8       | [Iterative Process](https://docs.google.com/presentation/d/1KdyeNSYpklUL-DrEW1b9cNoiee8j2727Htltk3Cp1Y8/edit?usp=sharing) | [LectureNote08](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote08:-Iterative-Process--Evaluations) | [Extra Credit: Usability Testing](#)
 9       | [UX Portfolio](https://docs.google.com/presentation/d/1Db_THpHtLrG1aPdbeVjtdN65IbdqmRJEOICGHhH3_r0/edit?usp=sharing) | [LectureNote09](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote09:-web-documentation) | [A08: Pitch](https://docs.google.com/document/d/1mpoWvFlYYbBKdd1jH14gEwKGOi-H3TupgB4VlLTjx6M/edit?usp=sharing)
 10      | [Review](https://docs.google.com/presentation/d/1ml4GIGeRMcHNlJj0sz9MQpsJMb06UYmdnH0YaHifVRA/edit?usp=sharing) | [FinalProjectEvaluation](#) | [A09: Peer Review](https://docs.google.com/document/d/1TVe194HGjYE4HpVKa6Q5PNX3Zoz0tlcoDeTfWflQwEw/edit?usp=sharing)
@@ -40,7 +40,7 @@ Week    |       Topics      |   Activity+References      |   Assignments
 
 ## UX Project 
 ### Goal:
-You will define the design problem of the current system; conduct user research to discover user's unspoken needs; and propose the creative solution by an interactive prototype for the new system. Provide the evidence how/why the solution would work with your users. 
+You will define the design problem of the current system; conduct user research to discover user's unspoken needs; and propose the creative solution by an interactive prototype for the new system. Provide the evidence how/why the solution would work with your users. The design themes for 2021 Spring are about SENIOR and/or sharing knowledge of making. 
 
 ### Delieverable:
 #### One page web documentation with
@@ -49,7 +49,7 @@ You will define the design problem of the current system; conduct user research 
 * Video of the presentation
 
 ### Process:
-You will experience at least one cycle of ux process throughout the semester by the weekly assignments. 
+Students start the project from the week1 and will experience at least one cycle of ux process throughout the semester by the weekly assignments. 
 
 ### Requirements: 
 - Design problem statement
