@@ -40,7 +40,7 @@ Week    |       Topics      |   Activity+References      |   Assignments
 
 ## UX Project 
 ### Goal:
-You will define the design problem of the current system; conduct user research to discover user's unspoken needs; and propose the creative solution by an interactive prototype for the new system. Provide the evidence how/why the solution would work with your users. The design themes for 2021 Spring are about SENIOR and/or sharing knowledge of making. 
+You will define the design problem of the current system; conduct user research to discover user's unspoken needs; and propose the creative solution by an interactive prototype for the new system. Provide the evidence how/why the solution would work with your users. The design themes for 2021 Spring are about the senior citizens (older than 70yr) and/or sharing knowledge of making. 
 
 ### Delieverable:
 #### One page web documentation with
