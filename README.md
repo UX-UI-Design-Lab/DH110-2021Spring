@@ -34,7 +34,7 @@ Week    |       Topics      |   Activity+References      |   Assignments
 10      | [Review](https://docs.google.com/presentation/d/1ml4GIGeRMcHNlJj0sz9MQpsJMb06UYmdnH0YaHifVRA/edit?usp=sharing) | [FinalProjectEvaluation](#) | [A09: Peer Review](https://docs.google.com/document/d/1TVe194HGjYE4HpVKa6Q5PNX3Zoz0tlcoDeTfWflQwEw/edit?usp=sharing)
 
 
-###### The assignment due is by the beginning of the next classtime unless it is marked with +. + marked assignments have two-weeks to work.
+###### The assignment due is by the beginning of the next classtime.
 
 ---
 
